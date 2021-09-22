@@ -739,7 +739,7 @@ a {
   outline: none;
   font-size: 18px;
   text-transform: uppercase;
-  padding: 25px 0;
+  padding: 0;
   height: 53px;
 }
 
@@ -782,4 +782,3 @@ a {
     padding: 50px 10px;
   }
 }
-/*# sourceMappingURL=style.css.map */
